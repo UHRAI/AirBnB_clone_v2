@@ -1,4 +1,4 @@
-AirBnB clone - MySQL
+AirBnB clone - MySQL  
 Background Context
 Environment variables will be your best friend for this project!
 
